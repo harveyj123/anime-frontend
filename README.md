@@ -1,5 +1,6 @@
 # Welcome to Technime Frontend
 Check out our wiki for more in-depth information
+Backend Link: https://github.com/harveyj123/anime-backend
 ***
 
 ## Setup
